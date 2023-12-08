@@ -1,0 +1,28 @@
+module.exports = {
+  root: true,
+  extends: "@react-native",
+  rules: {
+    indent: ["error", 2],
+    quotes: ["error", "double"],
+    "linebreak-style": ["error", "windows"],
+    semi: ["error", "always"],
+    "react/prop-types": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/display-name": 0,
+    "react-hooks/exhaustive-deps": 0,
+    "react-native/no-inline-styles": 0,
+    "curly": 0,
+    "space-infix-ops": 0,
+    "no-unused-vars": ["error", { argsIgnorePattern: "^_" }],
+    "keyword-spacing": ["error", { "overrides": {
+      "if": { "after": false },
+      "for": { "after": false },
+      "while": { "after": false },
+      "static": { "after": false },
+      "as": { "after": false },
+    } }],
+    "eol-last": ["error", "never"],
+    "no-trailing-spaces": 0,
+    "prettier/prettier": 0,
+  },
+};

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370257564271",
+    "project_id": "loginapp345",
+    "storage_bucket": "loginapp345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370257564271:android:b883bb810ebd18ab75b39a",
+        "android_client_info": {
+          "package_name": "com.pianobase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370257564271-skrh7a9eobmq2clmqaa1tp60pks2gro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWmHyOgDYapb3vFAD23QoZycfDePcsAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370257564271-skrh7a9eobmq2clmqaa1tp60pks2gro5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

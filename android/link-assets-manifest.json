@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Black-Italic.otf",
+      "sha1": "57ee82532b474e9d2eced6a077fa6de8bfb76d15"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Black.otf",
+      "sha1": "b770fbaab1a35a0d697e3adc04b87639a3974354"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Bold-Italic.otf",
+      "sha1": "47f7d28fe57247120d225982fa1749010eed9eb2"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Bold.otf",
+      "sha1": "1674ad582e73ef343d5f6d97df07ddd59251c05d"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Extrabold-Italic.otf",
+      "sha1": "79e732813f864a9daf29ba7fdacee97dfe56354f"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Extrabold.otf",
+      "sha1": "ef9dc34abdf4bd3ebb0c6a0d70cb183faa2d813f"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Italic.otf",
+      "sha1": "260a70ccd170dfab812a0158db30d96734e7b9ed"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Light-Italic.otf",
+      "sha1": "3cef5c2845969051dc771af877100f7b1cee4814"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Light.otf",
+      "sha1": "689d8846fcf0ea2b727d914a5a0cd153f9449cff"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Medium-Italic.otf",
+      "sha1": "2fa77a1517e3f3826e82c65fdef087174bafbb3e"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Medium.otf",
+      "sha1": "16f3a2faae0be6abb3b3dcd720bd0afd7b57be18"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Semibold-Italic.otf",
+      "sha1": "285a44356f620fa18b0ec5e65e298edd12d34cd2"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Semibold.otf",
+      "sha1": "a9f9b4d9c3071d6b065a27dcf4923cfde81952d8"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova-Thin-Italic.otf",
+      "sha1": "ff306b3ad17ee212598064523f44b98a45151ab2"
+    },
+    {
+      "path": "assets/fonts/ProximaNova/Proxima-Nova.otf",
+      "sha1": "d82d21c9577c5438fb47584ce60a5af220ec90c9"
+    },
+    {
+      "path": "assets/fonts/Blomberg/Blomberg.otf",
+      "sha1": "fef21edb5c521c3deb980db1654e63bc979de788"
+    }
+  ]
+}
